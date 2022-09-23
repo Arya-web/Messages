@@ -1,0 +1,38 @@
+.message{
+    padding: 5px 20px;
+    margin: 1px 10px 20px 10px;
+    width: fit-content;
+    background-color: grey !important;
+    color: white !important;
+}
+
+.messageUser{
+    margin-left: auto;
+    text-align: right !important;
+    background-color: rgb(39, 162, 233) !important;
+    color: white !important;
+}
+
+.title{
+    margin: 0;
+    padding: 0px 20px;
+    text-align: left !important;
+}
+
+.titleUser{
+    text-align: right !important;
+    margin-left: auto;
+}
+
+.MuiTypography-gutterBottom{
+    margin-bottom: 0 !important;
+}
+
+.MuiCardContent-root{
+    padding: 5px !important;
+}
+
+.app__formControl{
+    display: flex !important;
+    flex-direction: row !important;
+}
